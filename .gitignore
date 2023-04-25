@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Docker
+*.log
+
+# Backend
+/dist/
+.env
+.nyc_output/
+coverage/
+
+# Frontend
+/build/

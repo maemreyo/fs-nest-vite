@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/maemreyo/backend-nestjs
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/maemreyo/frontend-vite
